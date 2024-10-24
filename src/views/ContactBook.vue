@@ -130,7 +130,6 @@
     },
   };
   </script>
-  
   <style scoped>
   .page {
     text-align: left;
